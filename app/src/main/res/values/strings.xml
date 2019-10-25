@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Speech to Text</string>
     <string name="hint">Tap on mic to start</string>
+    <string name="show_operator_name">Cameriere: </string>
 </resources>
